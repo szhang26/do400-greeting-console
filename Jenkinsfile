@@ -30,6 +30,6 @@ pipeline{
              }
         }        
 
-        // Add second the Release stage here
+        // Add the Release stage here
     }
 }
